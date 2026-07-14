@@ -14,4 +14,3 @@ document.addEventListener('DOMContentLoaded', () => {
   }), { threshold: .12 });
   document.querySelectorAll('.categoria, .sobre-imagem, .cartao-contato').forEach(el => observer.observe(el));
 });
-
