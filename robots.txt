@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://ferragemsantos26.github.io/ferragemsantos26/sitemap.xml
